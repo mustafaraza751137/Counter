@@ -40,9 +40,11 @@ input{
 }
 #decrement{
     height:50px;
+    font-size:40px;
 }
 #increment{
     height:130px;
+    font-size:80px;
 }
 #startButton{
     display:inline;
